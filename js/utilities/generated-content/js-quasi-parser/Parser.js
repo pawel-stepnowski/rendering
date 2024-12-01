@@ -30,7 +30,7 @@ export class Parser
      */
     parseFragment(source)
     {
-        const source_lines = source.split('\r\n');
+        const source_lines = source.split(/\r?\n/);
         if (source_lines.length > 0 && /^\/\/ @ts-check/.exec(source_lines[0])) source_lines.shift();
         const state = { position: 0, source_lines, block_depth: 0 };
         return this._parseFragment(state, false);
