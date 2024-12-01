@@ -1,5 +1,5 @@
 // @ts-check
-import { FixedArray } from "../FixedArray.js";
+import { FixedArray } from "../../FixedArray.js";
 import { Matrix } from "./Matrix.js";
 
 export class Vector

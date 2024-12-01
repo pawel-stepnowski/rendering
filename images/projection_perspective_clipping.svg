@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="25" height="25"/>
+    <linearGradient id="color-0" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.555769, 0, 0, 0.555252, -607.821442, 445.90329)">
+      <stop style="stop-color: rgb(204, 0, 0);"/>
+    </linearGradient>
+    <linearGradient id="color-1" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, -549.532324, 88.111588)">
+      <stop style="stop-color: rgb(0, 204, 0);"/>
+    </linearGradient>
+    <linearGradient id="color-2" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.248793, 0, 0, -111853.609375, 1560.34021, 33578079)">
+      <stop style="stop-color: rgb(0, 0, 204);"/>
+    </linearGradient>
+    <linearGradient id="color-3" bx:pinned="true" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color: rgb(105, 0, 105);"/>
+    </linearGradient>
+    <linearGradient id="color-4" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, -780.821762, -152.566078)">
+      <stop style="stop-color: rgb(230, 204, 38);"/>
+    </linearGradient>
+    <linearGradient id="color-5" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, 301.686627, 249.54612)">
+      <stop style="stop-color: rgb(198, 255, 249);"/>
+    </linearGradient>
+    <linearGradient id="color-6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, 443.576721, -102.215714)">
+      <stop style="stop-color: rgba(198, 255, 249, 0.64);"/>
+    </linearGradient>
+  </defs>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="50.432" y1="515.238" x2="1000.432" y2="-34.762"/>
+  <path d="M 426.717 28.422 L 750.432 188.672 L 750.432 461.033 L 426.207 297.805 L 426.717 28.422 Z" style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-5&quot;);"/>
+  <path d="M 225.432 290.238 L 375.432 365.238 L 375.432 490.238 L 225 415.408 L 225.432 290.238 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <path d="M 125 418.871 L 189.239 450 L 188.755 504.338 C 188.323 504.338 125 471.93 125 471.93 L 125 418.871 Z" style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-5&quot;);"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="1025.432" y1="440.238" x2="50.432" y2="515.238"/>
+  <g style="" transform="matrix(1, 0, 0, 1, 0.431999, 65.238007)">
+    <title>Z</title>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;);" x1="49.568" y1="450.317" x2="156.679" y2="397.373"/>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;);" x1="364.352" y1="294.019" x2="588.603" y2="180.484"/>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;); stroke-dasharray: 8;" x1="184.711" y1="382.455" x2="156.679" y2="397.373"/>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;); stroke-dasharray: 8;" x1="725" y1="111.936" x2="588.603" y2="180.484"/>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;);" x1="725" y1="111.936" x2="850" y2="50"/>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;); stroke-dasharray: 8;" x1="299.568" y1="325.527" x2="364.784" y2="294.019"/>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;);" x1="184.711" y1="382.455" x2="299.568" y2="325.527"/>
+  </g>
+  <line style="fill: rgb(216, 216, 216); stroke: url(&quot;#color-0&quot;);" x1="-100" y1="440.238" x2="400.432" y2="690.238"/>
+  <line style="fill: rgb(216, 216, 216); stroke: url(&quot;#color-1&quot;);" x1="50.432" y1="-34.762" x2="50.694" y2="690.238"/>
+  <text style="fill: rgb(147, 147, 147); font-family: Arial, sans-serif; font-size: 28px; white-space: pre; transform-box: fill-box; transform-origin: 50% 50%;" x="431.318" y="444.293" transform="matrix(1.701098, 0.906926, 0.151851, 1.26253, -96.080299, 9.125735)">V</text>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="50.927" cy="514.701" rx="6" ry="6"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="227.997" y1="412.843" x2="336.276" y2="350"/>
+  <text style="fill: url(&quot;#color-0&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="200" y="575.54">x</text>
+  <text style="fill: url(&quot;#color-1&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="60.886" y="50.54">y</text>
+  <text style="fill: url(&quot;#color-2&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="760.886" y="140.778">z</text>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="407.42" y1="308.539" x2="687.407" y2="146.536"/>
+  <text style="font-family: Arial, sans-serif; font-size: 16px; paint-order: stroke; stroke-width: 2px; white-space: pre;" x="175" y="529.431">(right, bottom)</text>
+  <text style="font-family: Arial, sans-serif; font-size: 16px; paint-order: stroke; stroke-width: 2px; white-space: pre;" x="56.927" y="409.678">(top, left)</text>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="164.01" y1="450" x2="125" y2="471.873"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-2&quot;);" cx="587.788" cy="246" rx="6" ry="6"/>
+  <path d="M 425 28.422 L 750 188.777 L 189.239 450 L 125 418.871 L 425 28.422 Z" style="fill: url(&quot;#color-6&quot;);"/>
+  <path d="M 750 189.676 L 750.432 461.033 L 189.239 504.338 L 189.239 450 L 750 189.676 Z" style="fill: url(&quot;#color-6&quot;);"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="975.432" y1="83.585" x2="50.432" y2="515.238"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="475.432" y1="-34.762" x2="50.432" y2="515.238"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-4&quot;);" cx="125.534" cy="419" rx="6" ry="6"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-2&quot;);" cx="156" cy="463.873" rx="6" ry="6"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-4&quot;);" cx="188.734" cy="502.701" rx="6" ry="6"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px; white-space: pre;" x="117.584" y="496.821">near</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 16px; white-space: pre;" x="550.636" y="248.821">far</text>
+</svg>

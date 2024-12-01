@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="25" height="25"/>
+  </defs>
+  <rect x="100" y="50" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="100" y="175" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="100" y="375" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="250" y="375" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="500" y="375" width="175" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="118.9" y="94.266">(x₁, y₁, z₁)</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="41.399" y="94.266">𝑉</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="41.399" y="219.266">𝐶</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="41.399" y="419.266">𝐼</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="368.693" y="227.255"> </text>
+  <rect x="250" y="50" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="268.9" y="94.266">(x₂, y₂, z₂)</text>
+  <rect x="400" y="50" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="418.9" y="94.266">(x₃, y₃, z₃)</text>
+  <rect x="550" y="50" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="568.9" y="94.266">(x₄, y₄, z₄)</text>
+  <rect x="800" y="50" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="818.9" y="94.266">(xₙ, yₙ, zₙ)</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="118.9" y="219.266">(r₁, g₁, b₁)</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="128.517" y="419.266">(1, 2, 4)</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="275" y="419.266">(2, 3, 8)</text>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="175" y1="375" x2="625" y2="250"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="325" y1="375" x2="475" y2="250"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="175" y1="250" x2="175" y2="375"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="300" y1="250" x2="175" y2="375"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="350" y1="250" x2="325" y2="375"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="750" y1="250" x2="325" y2="375"/>
+  <rect x="250" y="175" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="268.9" y="219.266">(r₂, g₂, b₂)</text>
+  <rect x="400" y="175" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="418.9" y="219.266">(r₃, g₃, b₃)</text>
+  <rect x="550" y="175" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="568.9" y="219.266">(r₄, g₄, b₄)</text>
+  <rect x="800" y="175" width="150" height="75" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="818.9" y="219.266">(rₙ, gₙ, bₙ)</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="739.679" y="94.266">⋯</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="739.679" y="219.266">⋯</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="439.269" y="419.266">⋯</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="525" y="419.266">(iₘ₁, iₘ₂, iₘ₃)</text>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="175" y1="125" x2="175" y2="175"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="325" y1="125" x2="325" y2="175"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="475" y1="125" x2="475" y2="175"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="625" y1="125" x2="625" y2="175"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="875" y1="125" x2="875" y2="175"/>
+</svg>

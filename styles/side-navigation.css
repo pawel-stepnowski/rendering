@@ -1,0 +1,71 @@
+aside {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--background-light);
+    display: flex;
+    flex-direction: column;
+}
+aside nav > ul {
+    background-color: var(--background);
+    margin: 0;
+    margin-right: 1em;
+    padding: 1em 0;
+    direction: ltr;
+}
+aside nav {
+    position: sticky;
+    top: 4em;
+    overflow-y: scroll;
+    direction: rtl;
+    max-height: calc(100vh - 5em);
+}
+aside.collapsed nav {
+    display: none;
+}
+aside nav a, nav span {
+    text-decoration: none;
+    color: #555;
+}
+aside nav ul {
+    padding-inline-start: 1em;
+}
+aside nav li {
+    list-style-type: none;
+}
+aside nav li > :first-child {
+    display: block;
+    padding: 0.2em;
+}
+aside .buttons {
+    padding: 0em 1em 1em 1em;
+    position: sticky;
+    top: 1em;
+    display: flex;
+    flex-direction: row;
+    color: var(--font-dark)
+}
+aside.collapsed .buttons {
+    flex-direction: column;
+}
+aside .buttons > div {
+    display: inline-flex;
+    min-width: 1.5em;
+    min-height: 1.5em;
+    background-color: var(--background);
+    font-size: 1.6em;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 0.3em;
+}
+aside.collapsed .buttons > div {
+    flex-direction: column;
+    margin-right: 0em;
+    margin-bottom: 0.3em;
+}
+aside .buttons > div:hover {
+    background-color: var(--background-dark);
+}
+aside nav .active {
+    font-weight: bold;
+    color: var(--font-dark)
+}

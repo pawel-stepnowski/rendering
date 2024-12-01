@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="25" height="25"/>
+    <linearGradient id="color-0" bx:pinned="true" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color: rgb(0, 49, 255);"/>
+    </linearGradient>
+    <linearGradient id="color-1" bx:pinned="true" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color: rgb(25, 255, 0);"/>
+    </linearGradient>
+  </defs>
+  <path d="M 225 25 L 575 292 L 575 575 L 225 308 L 225 25 Z" style="vector-effect: non-scaling-stroke; fill: rgba(216, 216, 216, 0.835); stroke: rgb(167, 167, 167);"/>
+  <g transform="matrix(1, 0, 0, 1, -275.000061, 3.021485)" style="">
+    <path d="M 149.306 207.414 L 256.453 190.309 L 256.453 293.218 L 149.306 307.913 L 149.306 207.414 Z" style="fill: rgb(130, 0, 113); stroke: rgb(0, 0, 0);" transform="matrix(0.686065, 0.727541, 0, 1.457589, 460.811584, -213.970932)"/>
+    <path d="M 636.755 250 L 781.546 250 L 781.546 400.83 L 636.755 400 L 636.755 250 Z" style="fill: rgb(130, 0, 113); stroke: rgb(0, 0, 0);"/>
+    <path d="M 563.245 196.979 L 713.245 196.979 L 781.546 250 L 636.755 250 L 563.245 196.979 Z" style="fill: rgb(130, 0, 113); stroke: rgb(0, 0, 0);"/>
+  </g>
+  <g>
+    <title>X</title>
+    <line style="fill: rgb(255, 0, 0); stroke: rgb(255, 0, 0); visibility: hidden;" x1="0" y1="0" x2="800" y2="600">
+      <title>Axis X</title>
+    </line>
+    <line style="fill: rgb(255, 0, 0); stroke: rgb(255, 0, 0);" x1="288.245" y1="217.015" x2="0" y2="0"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(255, 0, 0);" x1="433.432" y1="325" x2="800" y2="600"/>
+    <text style="fill: rgb(255, 0, 0); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="750" y="550.509">x</text>
+  </g>
+  <g>
+    <title>Y</title>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(21, 255, 0); visibility: hidden;" x1="400" y1="600" x2="399.994" y2="0">
+      <title>Axiz Y</title>
+    </line>
+    <line style="fill: url(&quot;#color-1&quot;); stroke: url(&quot;#color-1&quot;);" x1="400" y1="225" x2="400" y2="-25"/>
+    <line style="fill: rgb(216, 216, 216); stroke: url(&quot;#color-1&quot;);" x1="400" y1="407.919" x2="400" y2="625"/>
+    <text style="fill: url(&quot;#color-1&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="410.963" y="43.761">y</text>
+  </g>
+  <g>
+    <title>Z</title>
+    <line style="fill: rgb(216, 216, 216); stroke: url(&quot;#color-0&quot;);" x1="325" y1="300" x2="-42.11" y2="300"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 28, 255); visibility: hidden;" x1="-42.11" y1="300" x2="826.112" y2="300">
+      <title>Axiz Z</title>
+    </line>
+    <line style="fill: rgb(216, 216, 216); stroke: url(&quot;#color-0&quot;);" x1="850" y1="300" x2="506.546" y2="300"/>
+    <text style="fill: url(&quot;#color-0&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="750" y="285.761">z</text>
+  </g>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(0, 241, 255);" cx="400" cy="300" rx="8" ry="8">
+    <title>Eye</title>
+  </ellipse>
+</svg>

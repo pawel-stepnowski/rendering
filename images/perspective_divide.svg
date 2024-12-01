@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="25" height="25"/>
+    <linearGradient id="color-0" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, 687.601379, 165.584366)">
+      <stop style="stop-color: rgb(204, 0, 0);"/>
+    </linearGradient>
+    <linearGradient id="color-1" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, 568.065308, -191.620636)">
+      <stop style="stop-color: rgb(0, 0, 204);"/>
+    </linearGradient>
+  </defs>
+  <polygon style="fill: rgb(216, 216, 216); stroke: rgb(162, 162, 162);" points="750 -25 -250 -25 249.427 475"/>
+  <line style="fill: rgb(216, 216, 216); stroke-width: 5px; stroke: rgb(160, 160, 160);" x1="100" y1="475" x2="400" y2="475"/>
+  <line style="fill: rgb(216, 216, 216); stroke: url(&quot;#color-1&quot;);" x1="250" y1="-6.881" x2="249.427" y2="511.914"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="400" y1="325" x2="400" y2="475"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="400" y1="175" x2="325" y2="475"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="400" y1="25" x2="300" y2="475"/>
+  <line style="fill: rgb(216, 216, 216); stroke: url(&quot;#color-0&quot;);" x1="-50" y1="475" x2="532.683" y2="475"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="399.871" cy="324.739" rx="4" ry="4"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="400.35" cy="174.741" rx="4" ry="4"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="400.35" cy="25.247" rx="4" ry="4"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="300.069" cy="475.205" rx="4" ry="4"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="325.785" cy="475.205" rx="4" ry="4"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="400.167" cy="475.205" rx="4" ry="4"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="410.35" y="332.25">(1, 0, 1)</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="410.35" y="181.991">(1, 0, 2)</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" transform="matrix(1, 0, 0, 1, -137.32608, 9.165238)"><tspan x="547.676" y="23.332">(1, 0, 3)</tspan><tspan x="547.676025390625" dy="1em">​</tspan></text>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="99.631" cy="324.739" rx="4" ry="4"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="24.751" cy="250.295" rx="4" ry="4"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="100" y1="325" x2="100" y2="475"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="175.159" cy="400.314" rx="4" ry="4"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="44.088" y="257.494">(-1.5, 0, 1.5)</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="119.088" y="332.25">(-1, 0, 1)</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; white-space: pre;" x="184.783" y="400.155">(-0.5, 0, 0.5)</text>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="25" y1="250" x2="100" y2="475"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="175" y1="400" x2="100" y2="475"/>
+  <text style="fill: url(&quot;#color-1&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="260.995" y="30.466">z</text>
+  <text style="fill: url(&quot;#color-0&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="465.151" y="468.907">x</text>
+</svg>

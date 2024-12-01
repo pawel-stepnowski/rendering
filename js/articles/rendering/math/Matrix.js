@@ -1,5 +1,5 @@
 // @ts-check
-import { FixedArray } from "../FixedArray.js";
+import { FixedArray } from "../../FixedArray.js";
 import { Vector } from "./Vector.js";
 
 export class Matrix
@@ -16,7 +16,7 @@ export class Matrix
     {
         return FixedArray.create(n, j => FixedArray.create(m, i => initializer(i, j)));
     }
-    
+
     /**
      * @template {number} M
      * @template {number} N
@@ -43,26 +43,6 @@ export class Matrix
     /**
      * @template {number} M
      * @template {number} N
-     * @param {Articles.Rendering.Math.Matrix<M, N>} a
-     * @param {Articles.Rendering.Math.Vector<M>} v
-     * @param {Articles.Rendering.Math.Vector<N>} [result]
-     * @returns {Articles.Rendering.Math.Vector<N>}
-     */
-    static mulVector(a, v, result)
-    {
-        const n = a.length;
-        const m = v.length;
-        if (result) result.fill(0); 
-        else result = Vector.createZero(n);
-        for (let i = 0; i < n; i++) 
-            for (let j = 0; j < m; j++)
-                result[i] += a[i][j] * v[j];
-        return result;
-    }
-
-    /**
-     * @template {number} M
-     * @template {number} N
      * @template {number} P
      * @param {Articles.Rendering.Math.Matrix<M, N>} a
      * @param {Articles.Rendering.Math.Matrix<N, P>} b
@@ -80,6 +60,26 @@ export class Matrix
             for (let p = 0; p < P; p++)
                 for (let n = 0; n < N; n++)
                     result[m][p] += a[m][n] * b[n][p];
+        return result;
+    }
+
+    /**
+     * @template {number} M
+     * @template {number} N
+     * @param {Articles.Rendering.Math.Matrix<M, N>} a
+     * @param {Articles.Rendering.Math.Vector<M>} v
+     * @param {Articles.Rendering.Math.Vector<N>} [result]
+     * @returns {Articles.Rendering.Math.Vector<N>}
+     */
+    static mulVector(a, v, result)
+    {
+        const n = a.length;
+        const m = v.length;
+        if (result) result.fill(0); 
+        else result = Vector.createZero(n);
+        for (let i = 0; i < n; i++) 
+            for (let j = 0; j < m; j++)
+                result[i] += a[i][j] * v[j];
         return result;
     }
 }

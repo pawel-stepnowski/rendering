@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="25" height="25"/>
+  </defs>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="-50" y1="99.754" x2="850.432" y2="550"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="349.738" y1="-15.304" x2="350" y2="616.145"/>
+  <path d="M 625 250 L 775 175 L 775 350 L 625 425 L 625 250 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <path d="M 625 99.754 L 775 174.754 L 625 249.754 L 475 174.754 L 625 99.754 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <path d="M 475 175 L 625 250 L 625 425 L 475 350 L 475 175 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <path d="M 175 75 L 525 250 L 525 525 L 175 350 L 175 75 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="475.121" y1="174.888" x2="25" y2="300.197"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="624.675" y1="249.665" x2="25" y2="300.197"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="623.165" y1="421.879" x2="25" y2="300.197"/>
+  <polygon style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="300 332.985 300 225 400 267.272 400 375"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="-45.296" y1="300.197" x2="349.738" y2="300"/>
+</svg>

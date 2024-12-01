@@ -1,0 +1,32 @@
+a {
+    color: var(--font-dark);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+main a {
+    background-color: var(--background-light);
+    border-radius: .25rem;
+    font-size: .875em;
+    padding: .15rem .3rem;
+}
+a.repository-file {
+    text-decoration: none;
+    background-color: var(--background-light);
+    
+    /* background-color: var(--gray-100); */
+    border-radius: .25rem;
+    font-size: .875em;
+    padding: .15rem .3rem;
+}
+a.repository-file:hover {
+    text-decoration: underline;
+}
+a.repository-file i {
+    background-color: white;
+    font-size: .875em;
+}
+a.repository-file span {
+    padding-left: .25rem;
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" xmlns:bx="https://boxy-svg.com">
+  <path d="M 75 125 L 325 250 L 325 475 L 75 350 L 75 125 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <defs>
+    <bx:grid x="0" y="0" width="25" height="25"/>
+    <linearGradient id="color-0" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.84003, 0, 0, 0.950697, 50, 0)">
+      <stop style="stop-color: rgb(0, 211, 0);"/>
+    </linearGradient>
+    <linearGradient id="color-1" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.000003, 0, 0, 1.000003, 50, 0)">
+      <stop style="stop-color: rgb(204, 0, 0);"/>
+    </linearGradient>
+    <linearGradient id="color-2" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.000001, 0, 0, 1.000001, 50, 0)">
+      <stop style="stop-color: rgb(0, 0, 204);"/>
+    </linearGradient>
+    <linearGradient id="color-3" bx:pinned="true" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color: rgb(204, 0, 158);"/>
+    </linearGradient>
+  </defs>
+  <path d="M 325 250 L 525 150 L 525 375 L 325 475 L 325 250 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <path d="M 275 25 L 525 150 L 325 250 L 75 125 L 275 25 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <path d="M 442.138 426.314 H 526.14 L 526.14 419.814 L 542.14 427.814 L 526.14 435.814 L 526.14 429.314 H 442.138 V 426.314 Z" bx:shape="arrow 442.138 419.814 100.002 16 3 16 0 1@ac737945" style="fill: url(&quot;#color-0&quot;); fill-rule: nonzero;" transform="matrix(-0.000001, -1, 1, -0.000001, -352.813904, 567.138123)"/>
+  <path d="M 407.519 426.314 H 503.323 L 503.323 419.814 L 519.323 427.814 L 503.323 435.814 L 503.323 429.314 H 407.519 V 426.314 Z" bx:shape="arrow 407.519 419.814 111.804 16 3 16 0 1@73488542" style="fill-rule: nonzero; fill: url(&quot;#color-2&quot;);" transform="matrix(0.894426, -0.447216, 0.447216, 0.894426, -480.821594, -75.398712)"/>
+  <path d="M 366.96 426.315 H 462.712 L 462.712 419.815 L 478.712 427.815 L 462.712 435.815 L 462.712 429.315 H 366.96 V 426.315 Z" bx:shape="arrow 366.96 419.815 111.752 16 3 16 0 1@c960eb6f" style="fill-rule: nonzero; fill: url(&quot;#color-1&quot;);" transform="matrix(0.894841, 0.446384, -0.446384, 0.894841, -62.401306, -421.515961)"/>
+  <text style="fill: url(&quot;#color-1&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="178.577" y="169.266">x</text>
+  <text style="fill: url(&quot;#color-0&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="91.858" y="44.266">y</text>
+  <text style="fill: url(&quot;#color-2&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="185.997" y="93.074">z</text>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="75" y1="350" x2="275" y2="250"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="275" y1="25" x2="275" y2="250"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 8;" x1="525" y1="375" x2="275" y2="250"/>
+  <text style="fill: url(&quot;#color-3&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="3.664" y="400.229">(-w, -w, 0)</text>
+  <text style="fill: url(&quot;#color-3&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" transform="matrix(1, 0, 0, 1, 90.251984, 53.162834)"><tspan x="384.748" y="59.06">(w, w, w)</tspan><tspan x="384.748" dy="1em">​</tspan></text>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-3&quot;);" cx="525.023" cy="150" rx="8" ry="8"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-3&quot;);" cx="75" cy="350.151" rx="8" ry="8"/>
+</svg>

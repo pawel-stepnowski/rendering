@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="25" height="25"/>
+    <linearGradient id="color-0" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.555769, 0, 0, 0.555252, -483.253448, 374.060829)">
+      <stop style="stop-color: rgb(204, 0, 0);"/>
+    </linearGradient>
+    <linearGradient id="color-1" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, -549.999908, 16.269114)">
+      <stop style="stop-color: rgb(0, 204, 0);"/>
+    </linearGradient>
+    <linearGradient id="color-2" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.248793, 0, 0, -111853.609375, 1214.722106, 33578323.999603)">
+      <stop style="stop-color: rgb(0, 0, 204);"/>
+    </linearGradient>
+    <linearGradient id="color-3" bx:pinned="true" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color: rgb(105, 0, 105);"/>
+    </linearGradient>
+    <linearGradient id="color-4" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, -4.745087, -249.107052)">
+      <stop style="stop-color: rgb(230, 204, 38);"/>
+    </linearGradient>
+  </defs>
+  <path d="M 575 175 L 725 100 L 725 275 L 575 350 L 575 175 Z" style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-3&quot;);"/>
+  <path d="M 575 24.888 L 725 99.888 L 575 174.888 L 425 99.888 L 575 24.888 Z" style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-3&quot;);"/>
+  <path d="M 425 100 L 575 175 L 575 350 L 425 275 L 425 100 Z" style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-3&quot;);"/>
+  <path d="M 150 100 L 500 275 L 500 525 L 150 350 L 150 100 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="281.701" y1="233.96" x2="50" y2="450"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="375" y1="387.938" x2="50" y2="450"/>
+  <polygon style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-3&quot;);" points="282.148 343.224 281.701 233.96 375 279.553 375 387.938"/>
+  <g style="">
+    <title>Z</title>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;);" x1="-50" y1="500" x2="325" y2="313.793"/>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;);" x1="450" y1="249.665" x2="500" y2="225"/>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;); stroke-dasharray: 8;" x1="325.262" y1="313.793" x2="450" y2="249.665"/>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;); stroke-dasharray: 8;" x1="725" y1="111.936" x2="500" y2="225"/>
+    <line style="stroke: url(&quot;#color-2&quot;); fill: url(&quot;#color-2&quot;);" x1="725" y1="111.936" x2="850" y2="50"/>
+  </g>
+  <line style="fill: rgb(216, 216, 216); stroke: url(&quot;#color-0&quot;);" x1="-100.432" y1="375" x2="400" y2="625"/>
+  <line style="fill: rgb(216, 216, 216); stroke: url(&quot;#color-1&quot;);" x1="50" y1="-6.449" x2="50.262" y2="625"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-4&quot;);" cx="574.864" cy="175.336" rx="6" ry="6"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: url(&quot;#color-4&quot;);" cx="374.052" cy="281" rx="6" ry="6"/>
+  <text style="fill: rgb(147, 147, 147); font-family: Arial, sans-serif; font-size: 28px; white-space: pre; transform-box: fill-box; transform-origin: 50% 50%;" x="431.318" y="444.293" transform="matrix(1.701098, 0.906926, 0.151851, 1.26253, 5.84491, 0.035846)">V</text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: Arial, sans-serif; font-size: 28px; stroke: rgb(0, 0, 0); white-space: pre;" x="568.864" y="163.629">P</text>
+  <text style="fill: url(&quot;#color-4&quot;); font-family: Arial, sans-serif; font-size: 28px; stroke: rgb(0, 0, 0); white-space: pre;" x="368.052" y="269.293">P'</text>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="50.495" cy="449.463" rx="6" ry="6"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="425" y1="100" x2="329.531" y2="190.019"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="329.531" y1="190.019" x2="281.701" y2="233.96"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="375" y1="279.264" x2="50" y2="450"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="575" y1="174.888" x2="440.753" y2="243.977"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="440.753" y1="243.977" x2="375" y2="279.264"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="575" y1="350" x2="500" y2="364.506"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="500" y1="364.506" x2="375" y2="387.938"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-dasharray: 10;" x1="425" y1="275" x2="281.701" y2="343.03"/>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="50" y1="450" x2="281.701" y2="343.03"/>
+  <text style="fill: url(&quot;#color-0&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="325" y="568.936">x</text>
+  <text style="fill: url(&quot;#color-1&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="60.85" y="43.936">y</text>
+  <text style="fill: url(&quot;#color-2&quot;); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="750" y="75.605">z</text>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="25" height="25"/>
+  </defs>
+  <polygon style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="275 350 50 400 450 450"/>
+  <polygon style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="225 50 275 350 450 450"/>
+  <polygon style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="225 50 50 400 275 350"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="241.183" y="43.778">𝐴</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="463.966" y="438.149">𝐵</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="25" y="387.179">𝐶</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="300" y="343.778">𝑃</text>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="224.981" cy="50.474" rx="6" ry="6"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="450.425" cy="450.371" rx="6" ry="6"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="51.566" cy="399.401" rx="6" ry="6"/>
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="275.059" cy="350.562" rx="6" ry="6"/>
+</svg>
